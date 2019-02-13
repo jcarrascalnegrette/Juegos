@@ -1,0 +1,16 @@
+{
+  "name": "Juego",
+  "version": "1.0.0",
+  "description": "taller programacion ",
+  "main": "index.js",
+  "author": "Jesus Martunez  Jose Carrascal",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.1",
+    "yarn": "^1.10.1"
+  }
+}
